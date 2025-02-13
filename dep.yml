@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: game
-        image: shammu101/game:latest
+        image: shammu101/dm
         ports:
         - containerPort: 8080
 
